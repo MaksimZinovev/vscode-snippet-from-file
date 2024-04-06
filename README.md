@@ -58,15 +58,7 @@ Configure extensinon settings by editing `settings.json`.
         "math primefactor": "math/primefactor.hpp"
     },
     "snippet-from-file.snippetbasedir": "/ANY/ABSOLUTE/PATH/",
-    "snippet-from-file.addregion": true,
-    "snippet-from-file.beginregion": {
-        "cpp": "#pragma region <SNIPPETTITLE>",
-        "py": "#region <SNIPPETTITLE>"
-    },
-    "snippet-from-file.endregion": {
-        "cpp": "#pragma endregion",
-        "py": "#endregion"
-    },
+    
     "snippet-from-file.regionexcludefile": [
         "template.hpp"
     ]
@@ -76,3 +68,4 @@ Configure extensinon settings by editing `settings.json`.
 ## License
 
 This extension releases under the [MIT License](https://github.com/morioprog/vscode-snippet-from-file/blob/master/LICENSE).
+
